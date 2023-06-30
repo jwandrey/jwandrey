@@ -3,6 +3,15 @@
 - 📑 I’m currently learning back-end and data analysis
 - 🚀 I’m looking for my first opportunity as a back-end developer
 ##
+
+<div>
+<a href="https://github.com/jwandrey">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jwandrey&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jwandrey&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+##
+
 - 📬 Contact info:
 
 <div> 
