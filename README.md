@@ -1,5 +1,5 @@
 ## hello, there! I’m jess
-- 👀 I’m interested in design, data, development and tech in general
+- 👀 I’m interested in software engineering, data, and tech in general
 - 📑 I’m currently learning back-end and data analysis
 - 🚀 I’m looking for my first opportunity as a back-end developer
 ##
